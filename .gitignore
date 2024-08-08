@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Prisma migrations
+prisma/migrations/
+
+# Logs
+logs/
+*.log
+
+# Output directories
+dist/
+build/
+coverage/
