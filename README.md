@@ -31,4 +31,4 @@ For detailed specifications of the API, including endpoints, request/response fo
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Muhrafli49/Contact-Manager-API.git
